@@ -1,0 +1,52 @@
+#contact h1{
+  font-size: 40px;
+  /* padding-bottom: 20px; */
+}
+
+#contact p{
+  margin: 10px 0;
+}
+
+#contact .form-group{
+  margin-bottom: 20px;
+}
+
+#contact .form-group label{
+  margin-bottom: 10px;
+}
+#contact .form-group input ,textarea{
+  padding: 10px;
+  width: 100%;
+  /* margin-bottom: 10px; */
+  border: 1px #ddd solid;
+}
+
+#contact .btn{
+  padding: 10px 20px;
+  background-color: black;
+  color: white;
+  font-size: 18px;
+  border: none;
+  cursor: pointer;
+}
+
+#contact .btn:hover{
+  background-color: #f7c08a;
+  color: black;
+}
+
+/* Contact Info */
+
+#contact-info .box{
+  float: left;
+  padding: 50px;
+  width: 33.3%;
+  text-align: center;
+}
+
+/* #contact-info .box p{
+  margin: 10px 0;
+} */
+#contact-info .box i{
+  margin-bottom: 10px;
+}
